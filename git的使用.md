@@ -45,3 +45,8 @@
 >###在github远程端删除一个分支
 >##`git push origin :newbranch`(分支名前的冒号代表删除)
 
+## 9 向远程仓库推送代码
+>##`git push url`
+
+## 10 本地拿到远程仓库代码
+>##`git pull url`
