@@ -20,3 +20,28 @@
 
 ## 7  修改文件
 >##重复第五六步
+
+
+## 8 将文件从暂存区放到仓库（repository）中
+>##`git commit -m '提交信息描述'`
+
+
+## 9 查看提交信息
+>##`git log`
+>## `git log --oneline`
+
+## 10 查看提交信息
+>##`git log`
+
+## 11 分支
+### 在本地创建新分支
+>## `git baranch newbarnch`
+###切换到新的分支
+>## `git checkout newbarnch`
+###将新分支推送到github
+>##`git push origin newbaranch`
+###在本地删除一个分支
+>##`git barnch -d newbaranch`
+>###在github远程端删除一个分支
+>##`git push origin :newbranch`(分支名前的冒号代表删除)
+
